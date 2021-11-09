@@ -2,7 +2,6 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 import time
 import os
 import easygui
-from tqdm import tqdm
 print("Webhook File Sender By Cl1cker")
 webhookurl = input("Insert Your Webhook URL: ")
 webhookmessage = input("Insert Your Webhook Message: ")
