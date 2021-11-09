@@ -1,1 +1,1 @@
-pip install discord_webhook, colorama
+pip install discord_webhook, colorama, easygui
